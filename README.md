@@ -8,9 +8,9 @@
 
 ## Estrutura do projeto
 
--[Movie Controller](src/main/java/dev/person/movies/MovieController)
--[Movie Repository](src/main/java/dev/person/movies/MovieRepository)
--[Movie Service](src/main/java/dev/person/movies/MovieService)
--[Review Controller](src/main/java/dev/person/movies/ReviewController)
--[Review Repository](src/main/java/dev/person/movies/ReviewRepository)
--[Review Service](src/main/java/dev/person/movies/ReviewService)
+-[Movie Controller](src/main/java/dev/gusxayk/movies/MovieController)
+-[Movie Repository](src/main/java/dev/gusxayk/movies/MovieRepository)
+-[Movie Service](src/main/java/dev/person/gusxayk/MovieService)
+-[Review Controller](src/main/java/dev/person/gusxayk/ReviewController)
+-[Review Repository](src/main/java/dev/person/gusxayk/ReviewRepository)
+-[Review Service](src/main/java/dev/person/gusxayk/ReviewService)
